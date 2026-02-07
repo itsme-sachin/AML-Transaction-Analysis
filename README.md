@@ -39,6 +39,14 @@ The dataset represents transaction-level financial data with the following key f
 
 > ⚠️ *Data used is anonymised / synthetic and for educational purposes only.*
 
+## 📊 Dataset Source
+
+The dataset used in this project was sourced from Kaggle.
+
+Due to file size and licensing considerations, the dataset is not included in this repository.
+
+You can download the dataset directly from Kaggle and place it in the `data/` folder before running the notebook.
+
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
